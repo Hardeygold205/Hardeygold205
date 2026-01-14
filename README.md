@@ -133,10 +133,7 @@ I care deeply about **code quality, performance, and real-world usability**.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hardeygold205&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardeygold205&theme=tokyonight&hide_border=true" height="180" />
-</p>
+![Hardeygold205's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hardeygold205&show_icons=true&theme=radical)
 
 ---
 
