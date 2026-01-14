@@ -91,7 +91,7 @@ I care deeply about **code quality, performance, and real-world usability**.
       <h3 align="center">Extension Africa Academy</h3>
       <p align="center">
         <a href="https://academy.extensionafrica.com" target="_blank">
-        <img src="https://img.shields.io/badge/Mobile_Apps-00D9FF?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Company_Website-00D9FF?style=for-the-badge" />
       </p>
       <p><strong>Tech:</strong> NextJs• Apache • TailwindCSS</p>
       <p>
