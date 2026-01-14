@@ -134,9 +134,12 @@ I care deeply about **code quality, performance, and real-world usability**.
 
 ## 📈 GitHub Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Hardeygold205&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hardeygold205&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Hardeygold205&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardeygold205&layout=compact&theme=radical&cache_seconds=1800)
+
 
 
 ---
