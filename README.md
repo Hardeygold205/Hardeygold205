@@ -88,13 +88,14 @@ I care deeply about **code quality, performance, and real-world usability**.
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Cross-Platform Mobile Apps</h3>
+      <h3 align="center">Extension Africa Academy</h3>
       <p align="center">
+        <a href="https://academy.extensionafrica.com" target="_blank">
         <img src="https://img.shields.io/badge/Mobile_Apps-00D9FF?style=for-the-badge" />
       </p>
-      <p><strong>Tech:</strong> React Native • Firebase • Supabase</p>
+      <p><strong>Tech:</strong> NextJs• Apache • TailwindCSS</p>
       <p>
-        Multiple production-ready mobile apps focused on performance,
+        Building the largest network of reliable Extension Agents across Africa,
         clean UI, and maintainable architecture.
       </p>
     </td>
