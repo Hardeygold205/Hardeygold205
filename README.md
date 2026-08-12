@@ -51,17 +51,15 @@ I care deeply about **code quality, performance, and real-world usability**.
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Excel Exchange</h3>
-      <p align="center">
-        <a href="https://excelexchange.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Project-00D9FF?style=for-the-badge" />
-        </a>
-      </p>
-      <p><strong>Tech:</strong> Next.js • Web3 • Real-time Data</p>
-      <p>
-        A modern crypto exchange platform featuring real-time price tracking,
-        responsive UI, and smooth user experience.
-      </p>
+      <h3 align="center">Noreta Farms</h3>
+
+<p><strong>Tech:</strong> Next.js • TypeScript • CMS • Apache • PM2</p>
+
+<p>
+Corporate website and custom content management system for an agricultural company.
+Developed responsive frontend interfaces, dynamic content management, production deployment,
+and CI/CD pipelines using GitHub Actions, PM2, and Nginx.
+</p>
     </td>
     <td width="50%">
       <h3 align="center">Branovax</h3>
@@ -79,13 +77,13 @@ I care deeply about **code quality, performance, and real-world usability**.
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Coinbit Extension</h3>
+      <h3 align="center">Play2score</h3>
       <p align="center">
-        <a href="https://coinbit-extension.vercel.app" target="_blank">
+        <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/Web3_Project-00D9FF?style=for-the-badge" />
         </a>
       </p>
-      <p><strong>Tech:</strong> Web3 • DApps • Frontend Architecture</p>
+      <p><strong>Tech:</strong> React Native • Expo • Frontend Architecture</p>
       <p>
         A Web3 DApps browser extension website designed to simplify
         crypto interactions and improve accessibility.
