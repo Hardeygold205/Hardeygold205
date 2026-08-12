@@ -31,12 +31,16 @@
 I’m a **Frontend & Mobile Engineer** focused on building **modern, scalable web and mobile applications**.  
 I enjoy turning complex ideas into **clean, performant, and user-friendly products**.
 
-**What I work with most:**
-- ⚛️ React, Next.js, React Native
-- 📱 Cross-platform mobile development
-- 🔗 Web3 & DApps integration
-- 🧱 Clean architecture & scalable UI systems
-- 🌍 Remote collaboration & product-driven development
+## 💼 What I Do
+
+- Build responsive web applications with React, Next.js, and TypeScript
+- Develop backend systems using Laravel and Node.js
+- Create and customize WordPress websites and CMS solutions
+- Convert Figma designs into production-ready interfaces
+- Integrate REST APIs and third-party services
+- Deploy and manage applications on Linux servers
+- Configure Nginx, Apache, PM2, and GitHub Actions
+- Optimize application performance and scalability
 
 I care deeply about **code quality, performance, and real-world usability**.
 
@@ -144,13 +148,42 @@ I care deeply about **code quality, performance, and real-world usability**.
 
 ---
 
-## 💡 Currently Exploring
-
-```ts
 const currentFocus = {
-  Frontend: "Advanced React & Next.js patterns",
-  Mobile: "React Native performance optimization",
-  Web3: "DApps & blockchain integrations",
-  Architecture: "Scalable UI & frontend system design",
-  Learning: "Building products people actually use"
+  frontend: [
+    "Advanced React",
+    "Next.js",
+    "Accessibility",
+    "Performance"
+  ],
+
+  backend: [
+    "Laravel",
+    "Livewire",
+    "Filament",
+    "Node.js"
+  ],
+
+  cms: [
+    "WordPress",
+    "Custom CMS Development"
+  ],
+
+  infrastructure: [
+    "Linux",
+    "Nginx",
+    "Apache",
+    "PM2",
+    "GitHub Actions",
+    "Production Deployments"
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "MySQL"
+  ],
+
+  currentlyBuilding: [
+    "Noreta Farms",
+    "JustShortlet"
+  ]
 }
