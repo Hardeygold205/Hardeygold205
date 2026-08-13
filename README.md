@@ -53,7 +53,7 @@ I enjoy building applications that are maintainable, performant, and production-
     <td width="50%">
       <h3 align="center">Noreta Farms</h3>
       <p align="center">
-        <a href="https://academy.extensionafrica.com" target="_blank">
+        <a href="https://noretafarms.com" target="_blank">
         <img src="https://img.shields.io/badge/Company_Website-00D9FF?style=for-the-badge" />
       </p>
 
@@ -89,8 +89,7 @@ and CI/CD pipelines using GitHub Actions, PM2, and Nginx.
       </p>
       <p><strong>Tech:</strong> React Native • Expo • Frontend Architecture</p>
       <p>
-        A Web3 DApps browser extension website designed to simplify
-        crypto interactions and improve accessibility.
+        Developed a cross-platform mobile application with real-time features, authentication, push notifications, and offline-friendly user experience.
       </p>
     </td>
     <td width="50%">
