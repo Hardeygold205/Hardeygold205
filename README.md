@@ -214,10 +214,6 @@ and CI/CD pipelines using GitHub Actions, PM2, and Nginx.
     <td>🔗 <strong>Web3</strong></td>
     <td>Solidity, Ethers.js, DApp integrations</td>
   </tr>
-  <tr>
-    <td>🚧 <strong>Currently Building</strong></td>
-    <td><code>Noreta Farms</code> · <code>JustShortlet</code></td>
-  </tr>
 </table>
 
 <div align="center">
