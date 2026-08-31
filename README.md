@@ -66,16 +66,15 @@ and CI/CD pipelines using GitHub Actions, PM2, and Nginx.
 </p>
     </td>
     <td width="50%">
-      <h3 align="center">Branovax</h3>
+      <h3 align="center">Justshortlet Admin Dashboard</h3>
       <p align="center">
-        <a href="https://www.branovax.com" target="_blank">
+        <a href="https://admin.justshortlet.com" target="_blank">
           <img src="https://img.shields.io/badge/Company_Website-00D9FF?style=for-the-badge" />
         </a>
       </p>
-      <p><strong>Tech:</strong> React • Next.js • Tailwind CSS</p>
+      <p><strong>Tech:</strong> Angular • TypeScript • Tailwind CSS</p>
       <p>
-        Official website for a software development company,
-        showcasing services, branding, and portfolio.
+        Designed and developed a responsive administrative dashboard with Angular and Tailwind CSS for managing JustShortlet users, hosts, properties, bookings, and platform operations.
       </p>
     </td>
   </tr>
